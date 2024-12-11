@@ -10,3 +10,7 @@
 ### Лабораторна №4 - <a href="https://github.com/VolodimirProdan/Lab-work-4.git" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Розробка додатку для візуалізації вимірювань радару</a>
 
 ### Лабораторна №5 - <a href="https://github.com/VolodimirProdan/Lab-work-5.git" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Розробка додатку для візуалізації вимірювань GPS</a>
+
+### Лабораторна №5 - <a href="https://github.com/VolodimirProdan/Lab-work-6.git" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Розробка додатку для візуалізації вимірювань LORAN</a>
+
+### Лабораторна №5 - <a href="https://github.com/VolodimirProdan/Lab-work-7.git" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Дослідження фільтра Калмана</a>
